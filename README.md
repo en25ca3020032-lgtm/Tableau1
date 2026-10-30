@@ -3,7 +3,7 @@
 Interactive Formula 1 analytics project built using Tableau Public.
 
 ## 🔗 Live Interactive Dashboard
-👉 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/app/profile/astha.pandagre/viz/F1-Racing-Dashboard/Story1)**
+👉 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/app/profile/astha.pandagre/viz/F1Analytics_17933715595820/Story1)**
 
 ---
 
