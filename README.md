@@ -6,7 +6,7 @@ Interactive Formula 1 analytics project built using Tableau Public.
 👉 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/app/profile/astha.pandagre/viz/F1Analytics_17933715595820/Story1)**
 
 ---
-
+ Website link (https://en25ca3020032-lgtm.github.io/Tableau1/)
 ## 🏎️ Key Visualizations
 - **Driver Leaderboard**: Dynamic ranking using Top-N parameter slider.
 - **Tyre Strategy Analysis**: Average lap times across tyre compounds.
